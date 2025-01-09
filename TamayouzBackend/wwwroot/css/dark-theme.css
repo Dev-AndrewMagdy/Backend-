@@ -1,0 +1,29 @@
+﻿/* Example Dark Theme CSS */
+
+.swagger-ui {
+    background: #1e1e1e;
+    color: #f5f5f5;
+}
+
+.swagger-ui .topbar {
+    background: #333;
+}
+.swagger-ui .scheme-container {
+    background: #333;
+    color: #f5f5f5;
+}
+.swagger-ui .btn {
+    background: #007bff;
+    color: #fff;
+}
+.swagger-ui .info {
+    color: #f5f5f5;
+}
+.swagger-ui .parameter__name {
+    color: #f5f5f5;
+}
+.swagger-ui .model .model-title {
+    color: #f5f5f5;
+}
+
+/* Add other styles as needed */
